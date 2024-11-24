@@ -1,0 +1,3 @@
+This mod was originally created by GotLag (https://mods.factorio.com/mod/Explosive%20Excavation), however it has not been updated since 2020 and there is no source code link provided to submit a pull request for community updates, and I have not not found a way to contact GotLag.
+
+Since I am unsure if GotLag is still active in the Factorio community, I have updated the mod to support 2.0 and re-posted the source code here.
